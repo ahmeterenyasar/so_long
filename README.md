@@ -1,6 +1,6 @@
 # 🎄 so_long — 2D Mini Game with MiniLibX
 
-_A simple holiday-themed 2D game built using C and the MiniLibX graphics library._
+_A simple christmas-themed 2D game built using C and the MiniLibX graphics library._
 
 ---
 
